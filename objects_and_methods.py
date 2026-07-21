@@ -111,7 +111,7 @@ print(type(a))
 b = Decimal('.2') # I am creating another deimal object
 # You will recognize object factories from their capital letter and their green color:
 # Now that I have a new object, I can see what kind of methods and properties they contain. 
-a. # With the dot notation
+a # With the dot notation
 # What is the interest of this Decimal object?
 print(a + b)
 print(a + b == Decimal('.3'))
